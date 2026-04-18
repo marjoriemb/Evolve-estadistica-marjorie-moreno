@@ -1,0 +1,7 @@
+--- Análisis del Residuo ---
+Media: -0.458
+Desviación estándar: 3.567
+Asimetría: -0.109
+Curtosis: -0.084
+JB Test p-valor: 0.082
+ADF Test p-valor: 0.007
